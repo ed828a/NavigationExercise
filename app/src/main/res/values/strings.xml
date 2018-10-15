@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="settings">Settings</string>
+    <string name="camera">Camera</string>
+    <string name="home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="see_all_photos">See all photos</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="upper_settings">SETTINGS</string>
+    <string name="upper_home">HOME</string>
+</resources>

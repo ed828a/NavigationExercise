@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--make sure the id of item must match the id of fragments/activities in navigation graph-->
+    <item
+        android:id="@+id/destination_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings" />
+</menu>
